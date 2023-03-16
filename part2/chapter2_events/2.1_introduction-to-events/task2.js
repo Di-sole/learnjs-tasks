@@ -1,0 +1,1 @@
+<button type="button" onclick="this.hidden=true">Нажми, чтобы спрятать</button>
